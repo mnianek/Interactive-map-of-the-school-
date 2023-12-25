@@ -1,1 +1,1 @@
-# Interactive-map-of-the-school-
+Interactive school map
